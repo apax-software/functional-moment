@@ -1,0 +1,25 @@
+{
+  "name": "functional-moment",
+  "version": "0.0.0",
+  "description": "Demethodizing Moment.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/apax-software/functional-moment.git"
+  },
+  "keywords": [
+    "moment",
+    "date",
+    "time",
+    "functional"
+  ],
+  "author": "Matt Smith <msmith@apaxsoftware.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/apax-software/functional-moment/issues"
+  },
+  "homepage": "https://github.com/apax-software/functional-moment"
+}
