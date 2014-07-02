@@ -1,6 +1,6 @@
 {
   "name": "functional-moment",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Demethodizing Moment.js",
   "main": "index.js",
   "scripts": {
