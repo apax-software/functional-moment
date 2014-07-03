@@ -4,7 +4,8 @@
   "description": "Demethodizing Moment.js",
   "main": "index.js",
   "scripts": {
-    "test": "node  tests/index.js"
+    "test": "node  tests/index.js",
+    "docco": "docco index.js"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,7 @@
     "ramda": "~0.2.2"
   },
   "devDependencies": {
-    "tape": "~2.13.3"
+    "tape": "~2.13.3",
+    "docco": "~0.6.3"
   }
 }
