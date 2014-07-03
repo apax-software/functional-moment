@@ -1,6 +1,8 @@
 functional-moment
 =================
 
+[![Build Status](https://travis-ci.org/apax-software/functional-moment.svg?branch=master)](https://travis-ci.org/apax-software/functional-moment)
+
 Demothodizing Moment.js to use the library in a more functional style.
 
 Functional moment is an experimental library created by using Ramda (another experimental library) to create semi equivalent functions of the methods on Moment and Duration objects.
